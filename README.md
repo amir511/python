@@ -1,4 +1,3 @@
-# Python
 # Python Scripts I created for my personal use and for my work
 ## SimpleNote:
 * This is a simple notepad-like fully functional application that demostrates the how to use the easy-gui python module for creating GUI apps
